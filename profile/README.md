@@ -1,6 +1,6 @@
 # Wearer Lab - ProductFlo ||  Next Notes
 
-[![Wearer Lab]([https://wearer.xyz/images/Logo.svg])
+[![Wearer Lab](https://wearer.xyz/images/Logo.svg)](https://wearer.xyz/) 
 
 ## 👋 Hi there 
 **Company Name**: Wearer Lab
