@@ -1,14 +1,15 @@
-# Wearer Lab - Next Notes
+# Wearer Lab - ProductFlo ||  Next Notes
 
-[![Next Notes](https://www.next-notes.com/images/logo.png)](https://www.next-notes.com/)
+[![Wearer Lab]([https://wearer.xyz/images/Logo.svg])
 
 ## 👋 Hi there 
+**Company Name**: Wearer Lab
 
 Welcome to the Wearer Lab GitHub repository for Next Notes - a hands-free Wearable-powered Scribing App designed for clinicians. This repository serves as the official source for the Next Notes application, allowing you to explore, contribute, and provide feedback.
 
-## 🙋‍♀️ Company Details 
 
-- **Company Name**: Wearer Lab
+# 🥇 PRoduct 1: NextNotes
+ 
 - **Product Name**: Next Notes
 - **Website**: [www.next-notes.com](http://www.next-notes.com/)
 - **Description**: Next Notes is an AI-powered wearable application designed for healthcare professionals to capture real-time conversations, streamline administrative tasks, improve efficiency, and enhance patient care.
@@ -56,3 +57,5 @@ We welcome contributions and feedback from the open-source community. If you enc
 Thank you for your interest in Next Notes by Wearer Lab. We hope this application revolutionizes your clinical note-taking experience and improves patient care. For any additional information or support, please visit our [website](http://www.next-notes.com/) or contact our support team at support@next-notes.com.
 
 🧑🏾‍⚕️ Let's make healthcare documentation easier, together!
+
+# 🥈 PRoduct 2: ProductFlo
