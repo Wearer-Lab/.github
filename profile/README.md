@@ -60,7 +60,7 @@ Thank you for your interest in Next Notes by Wearer Lab. We hope this applicatio
 
 # 🥈 Product 2: ProductFlo
 
-**Product Name**: ProductFlo.io 
+**Product Name**: ProductFlo.io
 **Website**: [ProductFlo.io](https://productflo.io)
 **Description**: ProductFlo.io is a comprehensive platform designed to simplify hardware product development for innovators, DIY makers, and early-stage startups, addressing the high failure rate of hardware tech startups and the challenges they face in securing funding and market validation.
 
@@ -81,8 +81,8 @@ Thank you for your interest in Next Notes by Wearer Lab. We hope this applicatio
 
 # 🥉 Product 3: Haitch (AI Product Developer)
 
-**Product Name**: Haitch  
-**Website**: [Haitch <> ProductFlo.io](https://haitch.productflo.io)
+**Product Name**: Haitch
+**Website**: [Haitch](https://haitch.productflo.io)
 **Description**: Haitch is an AI-powered hardware product developer agent specifically designed for makers and innovators that guides users through every stage of hardware product development, from concept to market, simplifying complex technical processes and connecting creators to manufacturing and sales channels.
 
 ## Features
