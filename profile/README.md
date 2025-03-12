@@ -59,3 +59,37 @@ Thank you for your interest in Next Notes by Wearer Lab. We hope this applicatio
 🧑🏾‍⚕️ Let's make healthcare documentation easier, together!
 
 # 🥈 Product 2: ProductFlo
+
+**Product Name**: ProductFlo.io 
+**Website**: [ProductFlo.io](https://productflo.io)
+**Description**: ProductFlo.io is a comprehensive platform designed to simplify hardware product development for innovators, DIY makers, and early-stage startups, addressing the high failure rate of hardware tech startups and the challenges they face in securing funding and market validation.
+
+## Features
+
+- **AI-powered Engineering Assistant**: Provides intelligent support throughout the product development lifecycle
+- **Team Collaboration**: Streamlines communication, workflow management, process documentation, and task management
+- **Technical Documentation**: Comprehensive support for PRD, BOM, Plans, CMF, Spec Sheets, SOP, ECR/ECO, and Maintenance Guidelines
+- **Technical File Viewing**: Integrated viewing capabilities for Code, CAD, PCB, and Gerber files
+- **Third-party Integrations**: Seamless connectivity with Slack, Notion, Asana, Google Workspace, GitHub, Jira, Google Drive, and Dropbox
+
+## Key Solutions
+
+- **Product Definition**: AI agents assist with product documentation, automated technical definition extraction, and AI-powered planning and timeline generation
+- **Engineering Expertise Access**: Network of vetted experienced engineers across mechanical, electrical, firmware, software, and chemical disciplines, supported by AI models for engineering file design
+- **Manufacturer Network**: Curated network of vendors and contract manufacturers with AI-powered matching and sourcing based on product requirements
+- **Optimized Workflows & Processes**: Built-in workflow development and validation, AI agents for automated process design, and stage-specific optimization
+
+# 🥉 Product 3: Haitch (AI Product Developer)
+
+**Product Name**: Haitch  
+**Website**: [Haitch <> ProductFlo.io](https://haitch.productflo.io)
+**Description**: Haitch is an AI-powered hardware product developer agent specifically designed for makers and innovators that guides users through every stage of hardware product development, from concept to market, simplifying complex technical processes and connecting creators to manufacturing and sales channels.
+
+## Features
+
+- **AI-Assisted Design Tools**: Product documentation, 3D rendering, mechanical design with AI-generated CAD models, electrical design with circuit and PCB assistance, and firmware design support
+- **Visualization and Testing**: 3D mechanical visualization and virtual prototyping, electrical circuit simulation, and firmware testing in virtual environments
+- **Prototyping and Manufacturing Connections**: Partner directory with curated manufacturing services matched by price, location, and quality, with integrated order management
+- **Sales and Crowdfunding Integrations**: Built-in Shopify integration for e-commerce and tools for managing Kickstarter/Indiegogo campaigns
+- **Support Features**: Educational resources and a comprehensive project dashboard to track progress
+
