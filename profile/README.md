@@ -50,19 +50,11 @@ Welcome to the Wearer Lab GitHub repositories.
 
 9. **Copy and Paste to EHR**: When you are satisfied with the note, feel free to copy and paste it directly into your Electronic Health Records (EHR) system for seamless record-keeping.
 
-## 🍿Contributions and Feedback
-
-We welcome contributions and feedback from the open-source community. If you encounter issues, have feature requests, or would like to contribute to the project, please feel free to create an issue or submit a pull request.
-
-Thank you for your interest in Next Notes by Wearer Lab. We hope this application revolutionizes your clinical note-taking experience and improves patient care. For any additional information or support, please visit our [website](http://www.next-notes.com/) or contact our support team at support@next-notes.com.
-
-🧑🏾‍⚕️ Let's make healthcare documentation easier, together!
-
 # 🥈 Product 2: ProductFlo
 
-**Product Name**: ProductFlo.io
-**Website**: [ProductFlo.io](https://productflo.io)
-**Description**: ProductFlo.io is a comprehensive platform designed to simplify hardware product development for innovators, DIY makers, and early-stage startups, addressing the high failure rate of hardware tech startups and the challenges they face in securing funding and market validation.
+- **Product Name**: ProductFlo.io
+- **Website**: [ProductFlo.io](https://productflo.io)
+- **Description**: ProductFlo.io is a comprehensive platform designed to simplify hardware product development for innovators, DIY makers, and early-stage startups, addressing the high failure rate of hardware tech startups and the challenges they face in securing funding and market validation.
 
 ## Features
 
@@ -81,9 +73,9 @@ Thank you for your interest in Next Notes by Wearer Lab. We hope this applicatio
 
 # 🥉 Product 3: Haitch (AI Product Developer)
 
-**Product Name**: Haitch
-**Website**: [Haitch](https://haitch.productflo.io)
-**Description**: Haitch is an AI-powered hardware product developer agent specifically designed for makers and innovators that guides users through every stage of hardware product development, from concept to market, simplifying complex technical processes and connecting creators to manufacturing and sales channels.
+- **Product Name**: Haitch
+- **Website**: [Haitch](https://haitch.productflo.io)
+- **Description**: Haitch is an AI-powered hardware product developer agent specifically designed for makers and innovators that guides users through every stage of hardware product development, from concept to market, simplifying complex technical processes and connecting creators to manufacturing and sales channels.
 
 ## Features
 
@@ -93,3 +85,11 @@ Thank you for your interest in Next Notes by Wearer Lab. We hope this applicatio
 - **Sales and Crowdfunding Integrations**: Built-in Shopify integration for e-commerce and tools for managing Kickstarter/Indiegogo campaigns
 - **Support Features**: Educational resources and a comprehensive project dashboard to track progress
 
+## 🍿Contributions and Feedback
+
+We welcome contributions and feedback from the open-source community. 
+If you encounter issues, have feature requests, or would like to contribute to the project, please feel free to create an issue or submit a pull request.
+
+Thank you for your interest in Wearer Lab. For any additional information or support, please visit our website [NextNotes](http://www.next-notes.com/) and [ProductFlo](https://productflo.io) or contact our support team at [support@wearer.xyz](mailto:support@wearer.xyz).
+
+🚀 Let's empower our data, together!
