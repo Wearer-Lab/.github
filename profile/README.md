@@ -5,7 +5,7 @@
 ## 👋 Hi there 
 **Company Name**: Wearer Lab
 
-Welcome to the Wearer Lab GitHub repository for Next Notes - a hands-free Wearable-powered Scribing App designed for clinicians. This repository serves as the official source for the Next Notes application, allowing you to explore, contribute, and provide feedback.
+Welcome to the Wearer Lab GitHub repositories.
 
 
 # 🥇 Product 1: NextNotes
